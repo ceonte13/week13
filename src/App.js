@@ -1,6 +1,6 @@
 
 import React from 'react';
-import assets from './kidgoku.jpg';
+
 import './App.css';
 import Navigation from './Navigation';
 import Loginform from './Loginform';
